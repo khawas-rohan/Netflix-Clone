@@ -109,11 +109,16 @@ button {
 }
 .text-btn ::placeholder {
   color: rgb(179, 179, 179);
+  
 }
 .word-btn {
   width: 15vw;
   height: 9vh;
   font-size: 1.4rem;
+}
+.word-btn a {
+  text-decoration: none;
+  color: white;
 }
 /* Separation line */
 .line {

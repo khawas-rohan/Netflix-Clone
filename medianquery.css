@@ -91,6 +91,9 @@
   body {
     /* background-color: red; */
   }
+  .text-btn input{
+        font-size: 0.6rem;
+  }
   .down {
     left: 8.5vw;
     height: 15vh;
